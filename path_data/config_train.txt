@@ -1,0 +1,10 @@
+0	1 Hầu họng
+1	10 Tá tràng
+2	2 Thực quản
+3	3 Tâm vị
+4	4 Thân vị
+5	5 Phình vị
+6	6 Hang vị
+7	7 Bờ cong lớn
+8	8 Bờ cong nhỏ
+9	9 Hành tá tràng

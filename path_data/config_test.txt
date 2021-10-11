@@ -1,0 +1,10 @@
+0	1 Hau hong
+1	10 Ta trang
+2	2 Thuc quan
+3	3 Tam vi
+4	4 Than vi
+5	5 Phinh vi
+6	6 Hang vi
+7	7 Bo cong lon
+8	8 Bo cong nho
+9	9 Hanh ta trang
